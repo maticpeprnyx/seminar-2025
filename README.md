@@ -3,7 +3,7 @@
 
 ## Možnosti práce
 - práce v semináři bude s ohledem na nepříliš vysoký počet účastníků probíhat na třech úrovních, z nichž každá dostane jiné množství pozornosti z mojí strany
-- vzhledem k tomu, že v naší skupině je poměrně rozmanitá škála různých úrovní zkušenosti, nechávám na vás, abyste vyhodnotili, který přístup bude pro vás nejvhodnější
+- vzhledem k tomu, že v naší skupině je poměrně rozmanitá škála různých úrovní zkušenosti, nechávám na vás, abyste vyhodnotili, který přístup bude pro vás nejvhodnější – svoje rozhodnutí navíc můžete kdykoli v průběhu školního roku změnit a flexibilně se připojit k jiné úrovni
 1. **Pokud neznáte základy programování**: V první fázi semináře spolu projdeme základy programování v Pythonu. Oporou nám k tomu bude zatím základní kurz programování v Pythonu na stránkách https://ksp.mff.cuni.cz/
 
 
