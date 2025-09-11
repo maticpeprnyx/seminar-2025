@@ -14,9 +14,8 @@ Následuje heslovité porovnání obou seminářů. Podrobnější informace naj
 |--------|-----|-----------|
 | Mateřská fakulta | Matematicko-fyzikální fakulta Univerzity Karlovy AKA matfyz | Fakulta informatiky Masarykovy univerzity |
 | Formát | stabilní informační báze na webu + možnost procvičovat úlohy z předešlých let + v každém ročníku je postupně zvěřejněno několik vln úloh s individuálním hodnocením | každý ročník má vlastní graf, jehož jednotlivé uzly tvoří články na různá programátorská témata provázané s automaticky vyhodnocovanými úlohami, jejichž vyřešení odemkne další uzel; graf je rozdělen na části a na konci každé části jsou složitější úlohy s individuálním hodnocením |
-| Náročnost úloh | 
+| Náročnost úloh | dvě úrovně náročnosti úloh v každé vlně | na začátku jsou jednodušší úlohy, jejich náročnost roste postupně |
 
-Nemusíte se obávat náročnosti úloh, semináře jsou pečlivě sestaveny tak, aby nejdřív upevnily základní kompetence. Dále také podtrhuji, že úlohy jsou převážně programovací, není tedy nutné odevzdávat dlouhé texty, ale pouze kód (někdy s komentáři).
 
 
 
@@ -28,8 +27,5 @@ Nemusíte se obávat náročnosti úloh, semináře jsou pečlivě sestaveny tak
 - vzhledem k tomu, že v naší skupině je poměrně rozmanitá škála různých úrovní zkušenosti, **nechávám na vás, abyste vyhodnotili, který přístup bude pro vás nejvhodnější** – svoje rozhodnutí navíc můžete kdykoli v průběhu školního roku změnit a flexibilně se připojit k jiné úrovni
 1. **Pokud si nejste jisti úplnými základy programování**: V první fázi semináře spolu projdeme základy programování v Pythonu. Oporou nám k tomu bude zatím základní kurz programování v Pythonu na stránkách [https://ksp.mff.cuni.cz/](https://ksp.mff.cuni.cz/kurz/#task/placeholder-kurz-programovani). Během prvního setkání si nachystáme prostředí pro další práci.
 2. **Pokud základy umíte, ale chcete rozšířit svoji znalost běžných algoritmů a pocvičit se**: Vzhledem k tomu, že ani jeden z korespondenčních seminářů, které mají tvořit páteř tohoto semináře, ještě nejsou v tomto ročníku rozjeté, doporučuju vaší pozornosti kurz Teoretická informatika prakticky na [stránkách KSP](https://ksp.mff.cuni.cz/kurz/#)
-
-
-Alternativní možností pro vás je i práce na vlastním informatickém projektu, který bude podléhat mému schválení a bude podmíněn odevzdáním detailního plánu na celý školní rok.
-
+3. **Pokud základy umíte a chcete pracovat na vlastním projektu**: Na dnešním setkání prosím pracujte na sestavení detailního plánu práce na zbytek školního roku.
 
