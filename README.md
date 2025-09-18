@@ -10,7 +10,7 @@ Moje role jakožto vedoucí semináře bude převážně **mentorská**: budu v�
 #### Něco o korespondenčních seminářích
 Jedná se vlastně o každoroční seriál úloh z informatiky zveřejňovaných po dobu školního roku, doplněných o vzdělávací texty. Autory všech materiálů jsou převážně současní a bývalí studenti daných fakult a katedry. Zatřešující témata seminářů se mění napříč ročníky, ale základ zůstává pevně ukotvený v klíčových konceptech algoritmizace a teoretické informatiky. Všechny semináře obsahují úlohy, které jsou individuálně vyhodnocovány skutečnými lidmi a bodovány. Pro účast v hodnocení je potřeba vypracování úloh odevzdat v předem daném termínu.
 
-Významným aspektem korespondenčních seminářů je také pravidlo, že jejich úspěšné vyřešení vám může zajistit odpuštění přijímací zkoušky do bakalářských programů na odpovídající fakultě/katedře. Dále bývá zvykem, že je možnost se vedle online vyplňování úloh účastnit také různých osobních setkání. Více najdete v souboru [Korespondenční semináře](seminar-2025/korespondencni_seminare.md).
+Významným aspektem korespondenčních seminářů je také pravidlo, že jejich úspěšné vyřešení vám může zajistit odpuštění přijímací zkoušky do bakalářských programů na odpovídající fakultě/katedře. Dále bývá zvykem, že je možnost se vedle online vyplňování úloh účastnit také různých osobních setkání. Více najdete v souboru [Korespondenční semináře](korespondencni_seminare.md).
 
 
 ### Aktuality
