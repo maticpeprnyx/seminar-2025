@@ -14,10 +14,10 @@ Jedná se vlastně o každoroční seriál úloh z informatiky zveřejňovaných
 
 Následuje heslovité porovnání obou seminářů. Podrobnější informace najdete na odpovídajících webových stránkách.
 |  | Korespondenční seminář z programování (dále KSP) | Korespondenční seminář z informatiky (dále KSI) | Fiťácký informatický korespondenční seminář (dále FIKS) | Olomoucký informatický korespondenční seminář (dále Olinx)
-|--------|-----|-----------|----------|----------|
-| Mateřská fakulta | Matematicko-fyzikální fakulta Univerzity Karlovy AKA matfyz | Fakulta informatiky Masarykovy univerzity |
-| Formát | stabilní informační báze na webu + možnost procvičovat úlohy z předešlých let + v každém ročníku je postupně zvěřejněno několik vln úloh s individuálním hodnocením | každý ročník má vlastní graf, jehož jednotlivé uzly tvoří články na různá programátorská témata provázané s automaticky vyhodnocovanými úlohami, jejichž vyřešení odemkne další uzel; graf je rozdělen na části a na konci každé části jsou složitější úlohy s individuálním hodnocením |
-| Náročnost úloh | dvě úrovně náročnosti úloh v každé vlně | na začátku jsou jednodušší úlohy, jejich náročnost roste postupně |
+|--------|-----|------|----------|----------|
+| Mateřská fakulta/katedra | Matematicko-fyzikální fakulta Univerzity Karlovy AKA _**matfyz**_ | Fakulta informatiky Masarykovy univerzity AKA _**FI MUNI**_ | Fakulta informačních technologií Českého vysokého učení technického AKA _**FIT ČVUT**_ | Katedra informatiky Přírodovědecké fakulty Univerzity Jana Palackého AKA _**KI UPOL**_
+| Formát | stabilní informační báze na webu + možnost procvičovat úlohy z předešlých let + v každém ročníku je postupně zvěřejněno několik vln úloh s individuálním hodnocením | každý ročník má vlastní graf, jehož jednotlivé uzly tvoří články na různá programátorská témata provázané s automaticky vyhodnocovanými úlohami, jejichž vyřešení odemkne další uzel; graf je rozdělen na části a na konci každé části jsou složitější úlohy s individuálním hodnocením | _na doplnění se pracuje_ | _na doplnění se pracuje_ |
+| Náročnost úloh | dvě úrovně náročnosti úloh v každé vlně | na začátku jsou jednodušší úlohy, jejich náročnost roste postupně | _na doplnění se pracuje_ | _na doplnění se pracuje_
 
 
 
