@@ -2,7 +2,20 @@
 #### Vedoucí semináře: Josefína Paloudová (email: [josefina.paloudova@lauder.cz](mailto:josefina.paloudova@lauder.cz))
 
 ### Aktuality
-17/09/2025 **V KSP a ve FIKS, tedy obou pražských seminářích, byly spuštěny první vlny úloh. Datum odevzdání pro oba semináře je 19.10.2025**
+👉17/09/2025 **V KSP a ve FIKS, tedy obou pražských seminářích, byly spuštěny první vlny úloh. Datum odevzdání pro oba semináře je 19.10.2025**
+
+## 2. setkání 18/09/2025
+### Možnosti práce
+1. **Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku**:
+2. **Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku**:
+3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na jakýkoli bakalářský program na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+4. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FIT, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+5. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FI MUNI nebo KI UPOL, a nechce se vám registrovat v žádném jiném ze seminářů**:
+6. **Pokud víte/tušíte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
+7. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
+
+
+
 
 ### Anotace
 V tomto semináři se seznámíme se základními koncepty teoretické informatiky v podobě, v jaké se studuje na VŠ. Výchozím textem při průchodu seminářem budou tzv. korespondenční semináře informatiky poskytované dvěma prominentními fakultami, které informatiku jako bakalářský studijní obor nabízí: **Matematicko-fyzikální fakulta Univerzity Karlovy** a **Fakulta informatiky Masarykovy univerzity**. EDIT: Na setkání 11/09/2025 jsem byla upozorněna, že tyto semináře nejsou jediné dva existující semináře tohoto typu u nás. Doplňuji tedy, že je možné v rámci předmětu plnit i semináře pod záštitou **Fakulty informačních technologií Českého vysokého učení technického** a **Katedry informatiky Přírodovědecké fakulty Univerzity Jana Palackého**. Více info níže.
@@ -23,19 +36,6 @@ Následuje heslovité porovnání obou seminářů. Podrobnější informace naj
 | Platnost odpuštění přijímací zkoušky | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
 | Pořádané akce | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
 
-
-
-
-
-## 2. setkání 18/09/2025
-### Možnosti práce
-1. **Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku**:
-2. **Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku**:
-3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na jakýkoli bakalářský program na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
-4. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FIT, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
-5. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FI MUNI nebo KI UPOL, a nechce se vám registrovat v žádném jiném ze seminářů**:
-6. **Pokud víte/tušíte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
-7. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
 
 ## 1. setkání 11/09/2025
 ### Možnosti práce
