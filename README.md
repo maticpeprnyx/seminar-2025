@@ -13,9 +13,6 @@
       b) Pokud už máte nějakou zkušenost s jiným IDE, můžete klidně používat to, pokud podporuje i Python.<br>
       c) Pokud vaše preferované IDE nepodporuje Python, doporučuju nainstalovat Visual Studio Code a připojit interpret Pythonu.<br>
   --> <a href="https://docs.python.org/3/using/windows.html">Zde</a> jsou instrukce k instalaci Pythonu na počítač s operačním systémem Windows 10 a vyšším.
-      <details><summary>d) Poslední možností je používat jakékoli online prostředí, což s sebou ale nese další věci na zvážení.</summary>
-        </details>
-  --> <a href="https://docs.python.org/3/using/windows.html">Zde</a> jsou instrukce k instalaci Pythonu na počítač s operačním systémem Windows 10 a vyšším.<br>
       d) Poslední možností je používat jakékoli online prostředí, což s sebou ale nese další věci na zvážení, vizte bod 2.
 </details>
 <details>
