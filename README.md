@@ -8,7 +8,10 @@
 ### Možnosti práce
 <details>
   <summary><b>1. Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku:</b></summary>
-      a) Pro úplné začátečníky doporučuji IDLE, což je prostředí, které je rovnou nainstalované spolu s Pythonem. <br>
+      <details><summary>a) Pro úplné začátečníky doporučuji IDLE, což je prostředí, které je rovnou nainstalované spolu s Pythonem.</summary>
+        Poté, co si stáhnete Python a nainstalujete podle níže uvedených instrukcí, otevřete si program "IDLE (Python 3.x)".
+        Otevře se vám shellové okno tohoto prostředí (tady se budou zobrazovat výstupy spuštěných skriptů).
+        </details>
       b) Pokud už máte nějakou zkušenost s jiným IDE, můžete klidně používat to, pokud podporuje i Python.<br>
       c) Pokud vaše preferované IDE nepodporuje Python, doporučuju nainstalovat Visual Studio Code a připojit interpret Pythonu.<br>
   --> <a href="https://docs.python.org/3/using/windows.html">Zde</a> jsou instrukce k instalaci Pythonu na počítač s operačním systémem Windows 10 a vyšším.<br>
