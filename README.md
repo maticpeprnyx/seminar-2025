@@ -31,10 +31,11 @@ Následuje heslovité porovnání obou seminářů. Podrobnější informace naj
 ### Možnosti práce
 1. **Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku**:
 2. **Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku**:
-3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na Informatiku na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na jakýkoli bakalářský program na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
 4. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FIT, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
-5. **Pokud víte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
-6. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
+5. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FI MUNI nebo KI UPOL, a nechce se vám registrovat v žádném jiném ze seminářů**:
+6. **Pokud víte/tušíte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
+7. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
 
 ## 1. setkání 11/09/2025
 ### Možnosti práce
