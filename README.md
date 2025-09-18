@@ -53,7 +53,7 @@
 
 
 
-### Anotace
+### Anotace semináře
 V tomto semináři se seznámíme se základními koncepty teoretické informatiky v podobě, v jaké se studuje na VŠ. Výchozím textem při průchodu seminářem budou tzv. korespondenční semináře informatiky poskytované dvěma prominentními fakultami, které informatiku jako bakalářský studijní obor nabízí: **Matematicko-fyzikální fakulta Univerzity Karlovy** a **Fakulta informatiky Masarykovy univerzity**. EDIT: Na setkání 11/09/2025 jsem byla upozorněna, že tyto semináře nejsou jediné dva existující semináře tohoto typu u nás. Doplňuji tedy, že je možné v rámci předmětu plnit i semináře pod záštitou **Fakulty informačních technologií Českého vysokého učení technického** a **Katedry informatiky Přírodovědecké fakulty Univerzity Jana Palackého**. Více info níže.
 
 Moje role jakožto vedoucí semináře bude převážně **mentorská**: budu vám k dispozici s radou v případě nejasností a postrčením v případě poklesu motivace. Naše pravidelná setkání budou probíhat ve znamení samostatné práce a individuálních konzultaci šitých na míru vašich potřeb.  V případě, že se bude zdát, že by celá skupina nebo její část profitovala ze společné lekce na určité téma, po domluvě s vámi ji zařadím.
