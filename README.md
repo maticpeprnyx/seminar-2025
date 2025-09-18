@@ -6,14 +6,29 @@
 
 ## 2. setkání 18/09/2025
 ### Možnosti práce
-1. **Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku**:
-2. **Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku**:
-3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na jakýkoli bakalářský program na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+<details>
+  <summary><b>1. Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku:</b></summary><br>
+      a) Pro úplné začátečníky doporučuji IDLE, což je prostředí, které je rovnou nainstalované spolu s Pythonem.<br>
+      b) Pokud už máte nějakou zkušenost s jiným IDE, můžete klidně používat to, pokud podporuje i Python.<br>
+      c) Pokud vaše preferované IDE nepodporuje Python, doporučuju nainstalovat Visual Studio Code a připojit interpret Pythonu.<br>
+      <details><summary>d) Poslední možností je používat jakékoli online prostředí, což s sebou ale nese další věci na zvážení.</summary>
+        </details>
+</details>
+<details>
+   <summary><b>2. Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku:</b></summary><br>
+
+</details>
+<details>
+   <summary><b>3. Pokud víte/tušíte, že budete chtít podávat přihlášku na jakýkoli bakalářský program na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky:</b></summary><br>
+
+</details>
+
+
 4. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FIT, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
 5. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FI MUNI nebo KI UPOL, a nechce se vám registrovat v žádném jiném ze seminářů**:
 6. **Pokud víte/tušíte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
 7. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
-
+</ol>
 
 
 
