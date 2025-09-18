@@ -1,7 +1,7 @@
 # Seminář Algoritmizace a programování 2025-26
 #### Vedoucí semináře: Josefína Paloudová (email: [josefina.paloudova@lauder.cz](mailto:josefina.paloudova@lauder.cz))
 
-## Aktuality
+### Aktuality
 (17/09/2025) **V KSP a ve Fisk!, tedy obou pražských seminářích, byly spuštěny první vlny úloh. Datum odevzdání pro oba semináře je 19.10.2025**
 
 ### Anotace
