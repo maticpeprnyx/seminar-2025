@@ -1,6 +1,9 @@
 # Seminář Algoritmizace a programování 2025-26
 #### Vedoucí semináře: Josefína Paloudová (email: [josefina.paloudova@lauder.cz](mailto:josefina.paloudova@lauder.cz))
 
+## Aktuality
+(17/09/2025) **V KSP a ve Fisk!, tedy obou pražských seminářích, byly spuštěny první vlny úloh. Datum odevzdání pro oba semináře je 19.10.2025**
+
 ### Anotace
 V tomto semináři se seznámíme se základními koncepty teoretické informatiky v podobě, v jaké se studuje na VŠ. Výchozím textem při průchodu seminářem budou tzv. korespondenční semináře informatiky poskytované dvěma prominentními fakultami, které informatiku jako bakalářský studijní obor nabízí: **Matematicko-fyzikální fakulta Univerzity Karlovy** a **Fakulta informatiky Masarykovy univerzity**. 
 
