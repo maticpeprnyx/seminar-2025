@@ -1,16 +1,18 @@
-# Seminář Algoritmizace a programování 2025-26
-#### Vedoucí semináře: Josefína Paloudová (email: [josefina.paloudova@lauder.cz](mailto:josefina.paloudova@lauder.cz))
+<h1>Seminář Algoritmizace a programování 2025-26</h1>
+<h4>Vedoucí semináře: Josefína Paloudová (email: <a href="mailto:josefina.paloudova@lauder.cz">josefina.paloudova@lauder.cz<a>)</h4>
 
 <details>
   <summary><h4>Anotace</h4></summary>
-V tomto semináři se seznámíme se základními koncepty teoretické informatiky v podobě, v jaké se studuje na VŠ. Výchozím textem při průchodu seminářem budou tzv. korespondenční semináře informatiky poskytované dvěma prominentními fakultami, které informatiku jako bakalářský studijní obor nabízí: **Matematicko-fyzikální fakulta Univerzity Karlovy** a **Fakulta informatiky Masarykovy univerzity**. EDIT: Na setkání 11/09/2025 jsem byla upozorněna, že tyto semináře nejsou jediné dva existující semináře tohoto typu u nás. Doplňuji tedy, že je možné v rámci předmětu plnit i semináře pod záštitou **Fakulty informačních technologií Českého vysokého učení technického** a **Katedry informatiky Přírodovědecké fakulty Univerzity Jana Palackého**.
-Moje role jakožto vedoucí semináře bude převážně **mentorská**: budu vám k dispozici s radou v případě nejasností a postrčením v případě poklesu motivace. Naše pravidelná setkání budou probíhat ve znamení samostatné práce a individuálních konzultaci šitých na míru vašich potřeb.  V případě, že se bude zdát, že by celá skupina nebo její část profitovala ze společné lekce na určité téma, po domluvě s vámi ji zařadím.
+    <p>V tomto semináři se seznámíme se základními koncepty teoretické informatiky v podobě, v jaké se studuje na VŠ. Výchozím textem při průchodu seminářem budou tzv. korespondenční           semináře informatiky poskytované dvěma prominentními fakultami, které informatiku jako bakalářský studijní obor nabízí: <b>Matematicko-fyzikální fakulta Univerzity Karlovy</b> a         <b>Fakulta informatiky Masarykovy univerzity</b>. EDIT: Na setkání 11/09/2025 jsem byla upozorněna, že tyto semináře nejsou jediné dva existující semináře tohoto typu u nás.              Doplňuji tedy, že je možné v rámci předmětu plnit i semináře pod záštitou <b>Fakulty informačních technologií Českého vysokého učení technického</b> a <b>Katedry informatiky             Přírodovědecké fakulty Univerzity Jana Palackého</b>.</p>
+    <p>Moje role jakožto vedoucí semináře bude převážně **mentorská**: budu vám k dispozici s radou v případě nejasností a postrčením v případě poklesu motivace. Naše pravidelná setkání        budou probíhat ve znamení samostatné práce a individuálních konzultaci šitých na míru vašich potřeb.  V případě, že se bude zdát, že by celá skupina nebo její část profitovala ze        společné lekce na určité téma, po domluvě s vámi ji zařadím.</p>
 </details>
 
-#### Něco o korespondenčních seminářích
-Jedná se vlastně o každoroční seriál úloh z informatiky zveřejňovaných po dobu školního roku, doplněných o vzdělávací texty. Autory všech materiálů jsou převážně současní a bývalí studenti daných fakult a katedry. Zatřešující témata seminářů se mění napříč ročníky, ale základ zůstává pevně ukotvený v klíčových konceptech algoritmizace a teoretické informatiky. Všechny semináře obsahují úlohy, které jsou individuálně vyhodnocovány skutečnými lidmi a bodovány. Pro účast v hodnocení je potřeba vypracování úloh odevzdat v předem daném termínu.
+<details>
+  <summary><h4>Něco o korespondenčních seminářích</h4></summary>
+<p>Jedná se vlastně o každoroční seriál úloh z informatiky zveřejňovaných po dobu školního roku, doplněných o vzdělávací texty. Autory všech materiálů jsou převážně současní a bývalí studenti daných fakult a katedry. Zatřešující témata seminářů se mění napříč ročníky, ale základ zůstává pevně ukotvený v klíčových konceptech algoritmizace a teoretické informatiky. Všechny semináře obsahují úlohy, které jsou individuálně vyhodnocovány skutečnými lidmi a bodovány. Pro účast v hodnocení je potřeba vypracování úloh odevzdat v předem daném termínu.</p>
 
-Významným aspektem korespondenčních seminářů je také pravidlo, že jejich úspěšné vyřešení vám může zajistit odpuštění přijímací zkoušky do bakalářských programů na odpovídající fakultě/katedře. Dále bývá zvykem, že je možnost se vedle online vyplňování úloh účastnit také různých osobních setkání. Více najdete v souboru [Korespondenční semináře](korespondencni_seminare.md).
+<p>Významným aspektem korespondenčních seminářů je také pravidlo, že jejich úspěšné vyřešení vám může zajistit odpuštění přijímací zkoušky do bakalářských programů na odpovídající fakultě/katedře. Dále bývá zvykem, že je možnost se vedle online vyplňování úloh účastnit také různých osobních setkání. Více najdete v souboru [Korespondenční semináře](korespondencni_seminare.md).</p>
+</details>
 
 
 ### Aktuality
