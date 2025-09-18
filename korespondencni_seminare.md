@@ -1,4 +1,5 @@
-Následuje heslovité porovnání obou seminářů. Podrobnější informace najdete na odpovídajících webových stránkách.
+# Korespondenční semináře
+Tento soubor zatím obsahuje jen heslovité porovnání obou seminářů. Podrobnější informace najdete na odpovídajících webových stránkách.
 |  | [Korespondenční seminář z programování (dále KSP)](https://ksp.mff.cuni.cz/) | [Korespondenční seminář z informatiky (dále KSI)](https://ksi.fi.muni.cz/) | [Fiťácký informatický korespondenční seminář (dále FIKS)](https://fiks.fit.cvut.cz/about/faq) | [Olomoucký informatický korespondenční seminář (dále Olinx)](https://olinx.inf.upol.cz/)
 |--------|-----|------|----------|----------|
 | Mateřská fakulta/katedra | Matematicko-fyzikální fakulta Univerzity Karlovy AKA _**matfyz**_ | Fakulta informatiky Masarykovy univerzity AKA _**FI MUNI**_ | Fakulta informačních technologií Českého vysokého učení technického AKA _**FIT ČVUT**_ | Katedra informatiky Přírodovědecké fakulty Univerzity Jana Palackého AKA _**KI UPOL**_
