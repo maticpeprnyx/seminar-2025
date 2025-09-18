@@ -13,7 +13,7 @@ Moje role jakožto vedoucí semináře bude převážně **mentorská**: budu v�
 Jedná se vlastně o každoroční seriál úloh z informatiky zveřejňovaných po dobu školního roku, doplněných o vzdělávací texty. Autory všech materiálů jsou převážně současní a bývalí studenti daných fakult a katedry. Zatřešující témata seminářů se mění napříč ročníky, ale základ zůstává pevně ukotvený v klíčových konceptech algoritmizace a teoretické informatiky. Všechny semináře obsahují úlohy, které jsou individuálně vyhodnocovány skutečnými lidmi a bodovány. Pro účast v hodnocení je potřeba vypracování úloh odevzdat v předem daném termínu.
 
 Následuje heslovité porovnání obou seminářů. Podrobnější informace najdete na odpovídajících webových stránkách.
-|  | Korespondenční seminář z programování (dále KSP) | Korespondenční seminář z informatiky (dále KSI) | Fiťácký informatický korespondenční seminář (dále FIKS) | Olomoucký informatický korespondenční seminář (dále Olinx)
+|  | [Korespondenční seminář z programování (dále KSP)](https://ksp.mff.cuni.cz/) | [Korespondenční seminář z informatiky (dále KSI)](https://ksi.fi.muni.cz/) | [Fiťácký informatický korespondenční seminář (dále FIKS)](https://fiks.fit.cvut.cz/about/faq) | [Olomoucký informatický korespondenční seminář (dále Olinx)]
 |--------|-----|------|----------|----------|
 | Mateřská fakulta/katedra | Matematicko-fyzikální fakulta Univerzity Karlovy AKA _**matfyz**_ | Fakulta informatiky Masarykovy univerzity AKA _**FI MUNI**_ | Fakulta informačních technologií Českého vysokého učení technického AKA _**FIT ČVUT**_ | Katedra informatiky Přírodovědecké fakulty Univerzity Jana Palackého AKA _**KI UPOL**_
 | Formát | stabilní informační báze na webu + možnost procvičovat úlohy z předešlých let + v každém ročníku je počínaje zářím postupně zvěřejněno několik vln úloh s individuálním hodnocením | každý ročník má vlastní graf, jehož jednotlivé uzly tvoří články na různá programátorská témata provázané s automaticky vyhodnocovanými úlohami – vyřešení odemkne další uzel; graf je rozdělen na části a na konci každé části jsou složitější úlohy s individuálním hodnocením | _na doplnění se pracuje_ | _na doplnění se pracuje_ |
@@ -31,9 +31,10 @@ Následuje heslovité porovnání obou seminářů. Podrobnější informace naj
 ### Možnosti práce
 1. **Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku**:
 2. **Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku**:
-3. **Pokud víte, že chcete jít na matfyz, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
-4. **Pokud víte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
-5. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
+3. **Pokud víte/tušíte, že budete chtít podávat přihlášku na Informatiku na matfyzu, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+4. **Pokud víte/tušíte, že budete chtít podávat přihlášku na FIT, a chcete si vysoutěžit odpuštění přijímací zkoušky**:
+5. **Pokud víte, že chcete jít studovat informatiku, ale ještě nevíte kam**:
+6. **Pokud byste radši než na některém ze seminářů pracovali na vlastním projektu**:
 
 ## 1. setkání 11/09/2025
 ### Možnosti práce
