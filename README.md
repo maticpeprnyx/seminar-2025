@@ -8,14 +8,19 @@
 ### Možnosti práce
 <details>
   <summary><b>1. Pokud chcete pomoct s nastavením integrovaného programovacího prostředí (IDE) na vlastním notebooku:</b></summary>
-      <details><summary>a) Pro úplné začátečníky doporučuji IDLE, což je prostředí, které je rovnou nainstalované spolu s Pythonem.</summary>
-        Poté, co si stáhnete Python a nainstalujete podle níže uvedených instrukcí, otevřete si program "IDLE (Python 3.x)".
-        Otevře se vám shellové okno tohoto prostředí (tady se budou zobrazovat výstupy spuštěných skriptů).
+  <ol type="a">
+      <li><details> <summary> Pro úplné začátečníky doporučuji IDLE, což je prostředí, které je rovnou nainstalované spolu s Pythonem.</summary>
+       <ol>
+         <li>Poté, co si stáhnete Python a nainstalujete podle níže uvedených instrukcí, otevřete si program "IDLE (Python 3.x)".</li>
+        <li>Otevře se vám shellové okno tohoto prostředí (tady se budou zobrazovat výstupy spuštěných skriptů). Nyní otevřete menu Soubor/File a vyberte možnost Nový/New file.</li>
+        <li>V nově otevřeném editovacím okně můžete psát kód.</li>
+         </ol>
         </details>
-      b) Pokud už máte nějakou zkušenost s jiným IDE, můžete klidně používat to, pokud podporuje i Python.<br>
-      c) Pokud vaše preferované IDE nepodporuje Python, doporučuju nainstalovat Visual Studio Code a připojit interpret Pythonu.<br>
-  --> <a href="https://docs.python.org/3/using/windows.html">Zde</a> jsou instrukce k instalaci Pythonu na počítač s operačním systémem Windows 10 a vyšším.<br>
-      d) Poslední možností je používat jakékoli online prostředí, což s sebou ale nese další věci na zvážení, vizte bod 2.
+    </li>
+      <li> Pokud už máte nějakou zkušenost s jiným IDE, můžete klidně používat to, pokud podporuje i Python.</li>
+      <li> Pokud vaše preferované IDE nepodporuje Python, doporučuju <a href="https://code.visualstudio.com/docs/setup/setup-overview">nainstalovat Visual Studio Code</a> a připojit <a href="https://code.visualstudio.com/docs/python/python-tutorial">interpret Pythonu</a>, nebo používat IDLE, vizte bod a.</li>
+  --> <a href="https://docs.python.org/3/using/windows.html">Zde</a> jsou instrukce k instalaci Pythonu na počítač s operačním systémem Windows 10 a vyšším.
+      <li> Poslední možností je používat jakékoli online prostředí, což s sebou ale nese další věci na zvážení, vizte bod 2.</li>
 </details>
 <details>
    <summary><b>2. Pokud chcete pokračovat v kurzu Základů programování v Pythonu bez vlastního notebooku:</b></summary><br>
