@@ -20,7 +20,7 @@ Následuje heslovité porovnání obou seminářů. Podrobnější informace naj
 | Náročnost úloh | dvě úrovně náročnosti úloh v každé vlně | na začátku jsou jednodušší úlohy, jejich náročnost roste postupně | _na doplnění se pracuje_ | _na doplnění se pracuje_
 | Podmínky úspěšného řesitelství | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
 | Studijní programy, pro které platí odpuštění přijímací zkoušky | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
-| Platnost odpuštění přijímací zkoušky | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
+| Platnost odpuštění přijímací zkoušky | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
 | Pořádané akce | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_ | _na doplnění se pracuje_
 
 
